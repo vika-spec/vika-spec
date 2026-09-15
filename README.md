@@ -63,8 +63,6 @@ I enjoy implementing research papers, developing production-ready ML application
 - Vision-Language Models
 - AI for Scientific Discovery
 - Machine Learning Systems
-- Cheminformatics
-- Distributed Training
 
 ---
 
